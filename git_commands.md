@@ -110,7 +110,7 @@ ls -Force
 
 ### Области Git
 
-![Области Git](/Users/anton/Documents/Programming/RS_School/front-end:stage0/week_1/git/gitTheory/gitAreas.png)
+![Области Git](./assets/gitAreas.png)
 
 * Рабочая директория (**Working directory**) - видимые файлы и папки проекта.
 * Индекс (**Staging area**) - в эту область добавляются файлы, которые хотим сохранить. Подготавливаем файлы для коммита.
@@ -155,7 +155,7 @@ Git берет объекты из репозитория и переносит 
 ```
 git checkout
 ```
-![Рабочий процесс git](/Users/anton/Documents/Programming/RS_School/front-end:stage0/week_1/git/gitTheory/gitWorkingProcess.png)
+![Рабочий процесс git](./assets/gitWorkingProcess.png)
 
 ### Статусы отслеживания файлов
 * **Untracked** - Неотслеживаемый, те файлы, которые только что добавили в **Working directory** (Новый файл)
@@ -323,7 +323,7 @@ ort strategy - это стратегия объединения веток по 
 
 #### Связь локального и удаленного репозитория
 
-![](/Users/anton/Documents/Programming/RS_School/front-end:stage0/week_1/git/gitTheory/repos.png)
+![](./assets/repos.png)
 
 Команда для копирования удаленного репозитория в локальный (клонирование репозитория)
 

@@ -46,7 +46,7 @@ rm file.txt
 * Открытие проекта через терминал в редакторе кода
  1. Открыть окно с настройками (Mac: Cmd + Shift + P, Win: Ctrl + Shift + P)
  2. Выбрать Shell Command: Install 'code' command in PATH
- ![Выбрать следующую настройку](/Users/anton/Documents/Programming/RS_School/front-end:stage0/week_1/git/gitTheory/code.png)
+ ![Выбрать следующую настройку](./assets/code.png)
  3. После этого набрать в терминале команду
  ```
  code .
